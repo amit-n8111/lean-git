@@ -33,3 +33,8 @@ git merge cssBranch
 
 // Checking for conflicts, so adding on master.
 // These lines are under conflict, lets try  for merge.
+
+
+// ************** git mertool like tortoise can be used for resolving merge conflick ***************** ////////
+
+
