@@ -1,4 +1,6 @@
-check 1
-check 2
-check 3
-check 5
+git init
+git status
+git add, git add .
+git commit -m 'comment u wished'
+git log
+touch .gitignore
