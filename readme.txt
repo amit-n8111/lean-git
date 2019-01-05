@@ -22,3 +22,5 @@ git branch cssBranch
 
 // switch to new branch
 git checkout cssBranch
+
+// These lines are under conflict, lets try  for merge.
