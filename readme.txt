@@ -43,3 +43,19 @@ git merge cssBranch
 git stash // it will save this file for that particular branch
 git stash apply // once you are back this command will give you the file back. and you can apply it to diff branch
 
+
+// *************** Remote repositories
+
+// clone remote repositories
+    git clone remote
+
+// check existing remote repo
+    git remote
+    git remove -v
+
+// To connect to remote repository.
+    git remote add origin https://github.com/amit-n8111/learn-git.git
+
+// Fetching from remote
+    git fetch origin // It will fetch changes from remote but it will not merge manually.
+    git pull origin // It will fetch and merge the changes .
