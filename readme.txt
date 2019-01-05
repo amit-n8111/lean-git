@@ -22,3 +22,12 @@ git branch cssBranch
 
 // switch to new branch
 git checkout cssBranch
+    -- changes in branch
+    touch test.css
+    git add .
+    git commit -m 'initial branch commit'
+
+// mege master and cssBranch(make sure on target branch)
+git checkout master
+git merge cssBranch
+
