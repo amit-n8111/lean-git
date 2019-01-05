@@ -33,4 +33,9 @@ git merge cssBranch
 
 // Checking for conflicts, so adding on master.
 
+// If you create a new and do not commit it, it will be available for different branches.
+
+// You can save the state of your branch for stashed file using git stash command and switch between branches.
+git stash // it will save this file for that particular branch
+git stash apply // once you are back this command will give you the file back. and you can apply it to diff branch
 
