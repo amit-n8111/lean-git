@@ -31,3 +31,6 @@ git checkout cssBranch
 git checkout master
 git merge cssBranch
 
+// Checking for conflicts, so adding on master.
+
+
