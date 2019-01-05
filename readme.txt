@@ -16,3 +16,9 @@ git log
 
 // to create a new file and add to ignore some file types. 
 touch .gitignore
+
+// create a new branch 
+git branch cssBranch
+
+// switch to new branch
+git checkout cssBranch
